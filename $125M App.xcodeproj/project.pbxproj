@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					983A24DB1E43852000DE3228 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = XG2JBVVXS4;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XG2JBVVXS4;
 				INFOPLIST_FILE = "$125M App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "IntroSwift.-125M-App";
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XG2JBVVXS4;
 				INFOPLIST_FILE = "$125M App/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "IntroSwift.-125M-App";
